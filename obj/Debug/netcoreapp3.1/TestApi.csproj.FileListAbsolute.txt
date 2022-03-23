@@ -1,0 +1,10 @@
+F:\github\Self\TestRepository\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\github\Self\TestRepository\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\github\Self\TestRepository\TestApi\TestApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\github\Self\TestRepository\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.exe
+F:\github\Self\TestRepository\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.csprojAssemblyReference.cache
+F:\github\Self\TestRepository\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfoInputs.cache
+F:\github\Self\TestRepository\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfo.cs
+F:\github\Self\TestRepository\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.RazorTargetAssemblyInfo.cache
+F:\github\Self\TestRepository\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.Manifest.cache
+F:\github\Self\TestRepository\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.xml
